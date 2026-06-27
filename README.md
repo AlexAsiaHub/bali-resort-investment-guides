@@ -15,6 +15,7 @@ Practical, conservative guides to buying and underwriting a boutique villa resor
 | [Due-diligence checklist (leasehold resort)](guides/due-diligence-checklist.md) | Tenure, fixed-price extension, SLF/NIB, KBLI, Booking.com, PT structure |
 | [12 months on Booking.com](guides/booking-com-lessons.md) | What operating four Ubud villas for a year actually taught us |
 | [Ubud vs Canggu vs Seminyak](guides/ubud-vs-canggu-seminyak.md) | Where the real cap-rate math is for Bali property in 2026 |
+| [The real cost of buying a Bali resort](guides/cost-of-entry.md) | Ask vs floor, BPHTB/PPh taxes, fees, and optional CAPEX — your true all-in number |
 
 ## The asset these guides reference
 
